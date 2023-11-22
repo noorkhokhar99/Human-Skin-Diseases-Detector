@@ -3,9 +3,15 @@ Human Skin Diseases Detector
 
 
 
+
+
 ### Watch the Complete Step by Step Explanation
 
 [![Watch the video](https://github.com/noorkhokhar99/Human-Skin-Diseases-Detector/blob/main/Create.png)](https://youtu.be/CjutZP8lWSE)
+
+these Diseases we are detect in this app
+
+['Acne and Rosacea', 'Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions', 'Atopic Dermatitis ',"Exanthems and Drug Eruptions", "Hair Loss Photos Alopecia and other Hair Diseases", "Herpes HPV and other STDs Photos","Nail Fungus and other Nail Disease","Poison Ivy Photos and other Contact Dermatitis","Psoriasis pictures Lichen Planus and related diseases"]
 
 
 # Early Detection and Prevention:
