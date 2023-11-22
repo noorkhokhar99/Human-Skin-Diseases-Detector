@@ -2,6 +2,12 @@
 Human Skin Diseases Detector
 
 
+
+### Watch the Complete Step by Step Explanation
+
+[![Watch the video](https://github.com/noorkhokhar99/Human-Skin-Diseases-Detector/blob/main/Create.png)](https://youtu.be/CjutZP8lWSE)
+
+
 # Early Detection and Prevention:
 
 Emphasize the system's ability to detect skin diseases at an early stage, enabling timely intervention and treatment.
